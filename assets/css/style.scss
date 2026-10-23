@@ -1,4 +1,32 @@
 ---
 ---
+@import "jekyll-theme-hacker";
 
-@import 'jekyll-theme-hacker';
+body {
+  background-color: #0b1d3a;
+  color: #ffffff;
+}
+
+h1, h2, h3 {
+  color: #f2be1f;
+}
+header h1, 
+header h1 a, 
+.downloads h1,
+#header h1 {
+  color: #f2be1f !important;
+}
+
+header {
+  border-bottom: 1px dashed #ffc508 !important;
+}
+
+header a, 
+header a:visited {
+  color: #f2be1f !important; /* Gr menulinksene gyldne */
+}
+
+header a:hover {
+  color: #ffffff !important; /* Gr linksene hvide, nr du frer musen over dem */
+}
+

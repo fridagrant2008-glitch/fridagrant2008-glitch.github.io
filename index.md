@@ -1,27 +1,50 @@
 ---
 layout: default
----
+title: Zines Gone By 
+--- 
 
-## Introduction
+<br>
+<br>
+ 
+## \#1 ONLY NECESSARY COOKIES
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Only Necessary Cookies discusses the incessant collection of data in our society. Does it all mean something or is it arbitrary? 
 
-## Find me on
+In Only Necessary Cookies we collected intentionally arbitrary information/data on intentionally arbitrary things, such as how well a cookie hit the spot, or what sounds animals make in different languages. 
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+This zine is a compilation of that data for the purpose of asking: is more information always better? and what can it actually tell us without being placed in a broader context?
 
-## Contact
+<br>
+<br>
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+## \#2 CALL ME BY A NAME
 
-## Courses I've Taken
+Call  Me By a Name, investigates what power is given in a name. 
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+By mapping peoples perspectives on the connotations of different endearment terms we aimed to answer: do perceptions change based on the gender of the one using the term? Or the one being called the term? Do they change based on how close the interlocutors are to each other? And what can the connotations of these words tell us about our broader relationships to each other and impact that naming has on our perception? 
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+Some case studies in the zine include an adopted person contemplating who they would have been if they had been named by their biological parents, the thoughts of people working as strippers on their stripper names and what the names mean for their identities, the lost knowledge in naming practices of places based on geographical features, and a thought experiment based on giving different names to different aspects of your personality, or different faces.
 
-## Projects
+<br>
+<br>
 
-## Misc. 
+<img src="/images/forside.jpg" style="width: 45%; margin-right: 2%;" alt="Forside">
+<img src="/images/introtekst.jpg" style="width: 45%;" alt="Bagside">
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+<br>
+<br>
+
+## \#3 CHAIN MAIL 
+
+Is it possible to change our perspective on the present by imagining new futures? And what would this new information even be? 
+
+
+... cherry-picking still in process ... 
+
+<br>
+<br>
+
+## Contact: 
+deep.scribe.dot.at@gmail.com  
+
+
