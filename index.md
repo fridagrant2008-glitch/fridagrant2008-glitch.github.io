@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Homepage!
+# Welcome to Fabian's Homepage!
 
-Please enjoy the work of technical scills :) 
+Please enjoy this webside I made all by myself :)  
  
 ## About Me
 My name is Fabian and I am passionated about nature and asking stupid questions! When I am not learning how to code and build websides... I love to spend time with horses and other animals.
@@ -17,7 +17,7 @@ My name is Fabian and I am passionated about nature and asking stupid questions!
 
 ## Courses I've Taken
 * [Corpus Linguistics and Statistical Methods](https://studies.helsinki.fi/courses/course-unit/otm-ee6245bb-57a8-4bf0-aae7-2bbf72dce531) – How corpora can be used for solving small questions concerning language use.
-* [Introduction to Language Technology](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-43b8f122-8ca2-453b-addd-cbfd756c3306/KIK-405) – The course provides an introduction to practical language technology
+* [Introduction to Language Technology](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2627-43b8f122-8ca2-453b-addd-cbfd756c3306/KIK-405) – The course provides an introduction to practical language technology.
 
 ---
 
