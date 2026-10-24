@@ -6,12 +6,12 @@ permalink: /cmdline-course/
 
 # Command-line Course Reflection
 
-During this course, I have been introduced to the concept of coding and working with a text-based interface for the very first time. Below is a week-by-week breakdown of the topics covered, including command examples and reflections.
+During this course, I have been introduced to the concept of coding and working with a text-based interface for the very first time. Below are the topics we covered during the course.
 
 ---
 
 ## Week 1: Introduction and Terminology
-We learned the basic concepts of the terminal environment, system directories, and shell syntax. 
+We learned how to use a terminal environment and setting up  system directories, and shell syntax. 
 
 ### Command Example:
 ```bash
