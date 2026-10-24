@@ -3,3 +3,8 @@ description: This is Deepscription' homepage.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+header_pages:
+  - index.md
+  - cmdline-course.md
+  - cv.md
+
