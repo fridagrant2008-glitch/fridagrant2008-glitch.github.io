@@ -1,11 +1,7 @@
 ---
 layout: default
 title: Command Line Course
----
-
----
-layout: default
-title: Command Line Course
+permalink: /cmdline-course/
 ---
 
 # Command-line Course Reflection
