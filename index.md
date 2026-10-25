@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![Fabian og hestene](images/blue.png)
+
 # Welcome to Fabian's Homepage!
 
 Please enjoy this webside I made all by myself :)  
